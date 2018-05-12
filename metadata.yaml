@@ -1,0 +1,30 @@
+_repo: Geschiedenis-van-het-tijdperk-van-25-jarigen-vrede1849-1874_33822
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andriessen, P. J. (Pieter Jacob)
+    aliases:
+    - Andriesen, P. J. (Pieter Jacob)
+    - Andriessen, Pieter Jacob
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '9271'
+    url: http://www.gutenberg.org/2009/agents/9271
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
+description: ''
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33822'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- History -- 19th century'
+- !lcc 'DJ'
+title: 'Geschiedenis van het tijdperk van 25-jarigen vrede: 1849-1874'
+url: http://www.gutenberg.org/ebooks/33822
